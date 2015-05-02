@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ConnectFour</string>
+    <string name="say_glasswaretemplate">Connect Four</string>
+
+    
+    <string name="title">Connect 4 for Glass</string>
+    <string name="author">Jacopo Moscioni</string>
+
+    <string name="photo">CAPTURE</string>
+    <string name="stop">STOP</string>
+    
+    
+</resources>    
+    
