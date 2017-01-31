@@ -1,7 +1,7 @@
 # Connect-Four-For-Glass-OpenCV-Computer-Vision
 Connect Four Game using OpenCv On Google Glass
 
-It's the final project for my Master Degree in Computer Science at Università degli Studi di Perugia.
+It was the final project for my Master Degree in Computer Science at Università degli Studi di Perugia, in 2015.
 
 This project is a glassware for Google Glass device.
 It lets the person who is wearing the device to play at Connect Four game even if he/she does not know the rules.
