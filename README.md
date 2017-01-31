@@ -10,8 +10,8 @@ It lets the person who is wearing the device to play at Connect Four game even i
 The glassware uses image recognitions tecniques through the OpenCV library to analyze the input frames of the grid.
 When the recognition of all the elements is done (in particular the grid and the position of the two players buttons on the grid), an algorithm is used to decide the best move to suggest.
 
-The result is showed to the player into the Google Glass screen in front of the player's eye, as you can see in this video demostration:
+The result is showed to the player into the Google Glass screen in front of the player's eye, as you can see in this video demonstration:
 
-[![LINK TO YOUTUBE DEMOSTRATION](http://img.youtube.com/vi/j7-0sOLbGvc/0.jpg)](https://youtu.be/j7-0sOLbGvc?list=PL348C906D4053BE8A)
+[![LINK TO YOUTUBE DEMONSTRATION](http://img.youtube.com/vi/j7-0sOLbGvc/0.jpg)](https://youtu.be/j7-0sOLbGvc?list=PL348C906D4053BE8A)
 
 
